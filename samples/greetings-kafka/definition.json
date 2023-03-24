@@ -1,0 +1,8 @@
+{
+    "type": "sample",
+    "category": "Serverless",
+    "status": "ok",
+    "title": "greeting-kafka",
+    "description": "This is a greeting-kafka sample where you can see quantity comparison between products in bar chart; you can also add different sections in a product and visualize the result in dark or light mode.",
+    "cover": "./greeting-kafka.svg"
+}
